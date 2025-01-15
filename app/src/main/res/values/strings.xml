@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">splash</string>
+    <string name="find_peace_within_every_day">Find Peace Within, Every Day</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="welcome">Welcome !</string>
+    <string name="create_account">Create Account</string>
+    <string name="welcome_buddy">Welcome buddy</string>
+    <string name="what_s_your_mood_today">What\'s your mood today?</string>
+</resources>

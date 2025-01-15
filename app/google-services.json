@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950264694036",
+    "project_id": "databaselecture-ffb15",
+    "storage_bucket": "databaselecture-ffb15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950264694036:android:b35ea7fb6a67c3d4c16e01",
+        "android_client_info": {
+          "package_name": "com.example.splash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKze0AUzH72DAuxngZy65aMK1Jk2LO5z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
